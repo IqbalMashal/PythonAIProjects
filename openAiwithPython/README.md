@@ -21,7 +21,7 @@ A simple command-line chat interface for OpenAI's GPT models with history tracki
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/IqbalMashal/PythonAIProjects.git
 cd openaiwithpython
 ```
 
